@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  * t_char - print a character
  *@va:character
