@@ -9,9 +9,9 @@
 #include <stdlib.h>
 
 /**
-* struct types_arguments - Struct op
+* struct types_arguments - Struct op.
 *
-* @t: The operator
+* @t: The operator.
 * @f: The function associated
 */
 typedef struct types_arguments
