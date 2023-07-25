@@ -3,8 +3,8 @@
 #include "main.h"
 
 /**
- * octal - print a
- *@va:unsigned integer input
+ * octal - print a.
+ *@va:unsigned integer input.
  *
  * Return: no return
  */
