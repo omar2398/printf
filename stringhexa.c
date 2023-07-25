@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- *stringhexa - Entry point
+ *stringhexa - Entry point.
  *@va: argument tipo char * we want to change
- *Return: no return
+ *Return: no return.
  */
 int stringhexa(va_list va)
 {
