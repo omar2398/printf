@@ -3,7 +3,7 @@
 #include "main.h"
 
 /**
- * hexa - print a
+ * hexa - print a.
  *@va:unsigned integer input
  *
  * Return: no return
