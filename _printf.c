@@ -2,7 +2,7 @@
 
 /**
  * t_char - print a character
- *@va:character
+ *@va_arg:character
  *
  * Return: no return
  */
