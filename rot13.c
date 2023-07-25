@@ -2,8 +2,8 @@
 
 /**
 *print_rot - Print a string in rot13
-*@va: va_list arguments
-*Return: string
+*@va: va_list arguments.
+*Return: string.
 */
 
 int print_rot(va_list va)
