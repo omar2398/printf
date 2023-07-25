@@ -3,10 +3,10 @@
 #include "main.h"
 
 /**
- * hexa_special - print a
+ * hexa_special - print a.
  *@c:unsigned integer input
  *
- * Return: no return
+ * Return: no return.
  */
 int hexa_special(unsigned int c)
 {
