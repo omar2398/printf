@@ -3,8 +3,8 @@
 #include "main.h"
 
 /**
-* pointer - print a
-*@va:argument
+* pointer - print a.
+*@va:argument.
 *
 * Return: length
 */
