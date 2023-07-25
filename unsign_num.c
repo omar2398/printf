@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_unsigned - Entry point
+ * print_unsigned - Entry point.
  *@va: the unsigned integer  to print
  * Return: no return
  */
