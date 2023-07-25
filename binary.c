@@ -3,10 +3,10 @@
 #include "main.h"
 
 /**
- * binary - print a binary number
+ * binary - print a binary number.
  *@va:unsigned integer input
  *
- * Return: no return
+ * Return: no return 
  */
 int binary(va_list va)
 {
