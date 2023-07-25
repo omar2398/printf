@@ -1,3 +1,3 @@
 # printf
 omar &amp; Oluwaseyiaaron
-This is a Groou project
+This is a Group project
