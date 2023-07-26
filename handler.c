@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * handler - Format controller
- * @str: String format
+ * handler - Format controller.
+ * @str: String format.
  * @list: List of arguments
  *
  * Return: Total size of arguments with the total size of the base string
